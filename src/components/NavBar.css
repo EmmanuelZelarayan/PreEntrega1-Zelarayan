@@ -1,0 +1,50 @@
+.navbar-brand {
+    font-size: 1.8rem;
+    font-weight: bold;
+    color: #fff; 
+  }
+  
+  .nav-link {
+    font-size: 1.2rem;
+    color: #fff; 
+    margin-right: 20px;
+    transition: color 0.3s ease;
+  }
+  
+  .nav-link.active {
+    color: #ffd700; 
+  }
+  
+  .navbar {
+    background-color: #275a9c; 
+    border-bottom: 1px solid #555; 
+  }
+  
+
+  .navbar-toggler-icon {
+    background-color: #fff; 
+  }
+  
+  .nav-item {
+    margin-right: 15px;
+    list-style: none; 
+  }
+  
+  .navbar-collapse {
+    background-color: #444;
+    padding: 10px;
+  }
+  
+
+  .navbar-nav .nav-link {
+    color: #fff; 
+    margin-right: 0;
+    display: block;
+    text-align: center;
+  }
+  
+ 
+  .navbar-nav .nav-link.active {
+    color: #ffd700; 
+  }
+  
